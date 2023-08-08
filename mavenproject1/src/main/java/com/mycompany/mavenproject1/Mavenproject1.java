@@ -31,3 +31,13 @@ public class Mavenproject1 {
             }   
             }
         }
+
+class Caro{
+    int num1=2;
+
+    public Caro() {
+    }
+    
+    
+
+}
