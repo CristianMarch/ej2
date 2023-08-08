@@ -38,11 +38,12 @@ class Caro{
     int num1=2;
 
     public Caro() {
+        for (int i = 0; i < 10; i++) {
+            
+        }
     }
     
-    for {
-    a=a+2;
-    }
+    
     
     
 
