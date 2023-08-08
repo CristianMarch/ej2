@@ -38,6 +38,9 @@ class Caro{
     public Caro() {
     }
     
+    for {
+    a=a+2;
+    }
     
 
 }
